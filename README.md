@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dang Duong An Trung!
 
-## About me ✨
+## ✨ About me 
 - 🛤️ Learning and improving in Backend Development.
 - 💻 **Tech Stack: ""Node js | Git**
 - 🚀 Always learning new technologies!
