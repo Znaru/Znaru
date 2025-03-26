@@ -8,4 +8,4 @@
 - 🎓 University: HUTECH - trường đại học công nghệ thành phố Hồ Chí Minh
 - 🎓 GPA: 2.79/4.0
 - 🎓 Year: 2021 - 2025
-![Profile Banner](https://github.com/Znaru/Znaru/blob/main/profile_banner.jpg?raw=true)
+![Profile Banner]("C:\Users\ADMIN\Pictures\Screenshot_20230110_022946.png")
